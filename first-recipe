@@ -7,6 +7,10 @@
     <title>Document</title>
 </head>
 <body>
+    <header>
+        <h1>Christmas Book of recipes</h1>
+    </header>
+    
     <article id="cannelloni"><h2>Cannelloni</h2>
         <ul>
             <li>Difficulty: <b>Easy</b></li>
